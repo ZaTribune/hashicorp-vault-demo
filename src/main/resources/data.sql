@@ -1,5 +1,10 @@
-INSERT INTO country (id, name) VALUES (1, 'Egypt');
-INSERT INTO country (id, name) VALUES (2, 'UAE');
-INSERT INTO country (id, name) VALUES (3, 'Brazil');
-INSERT INTO country (id, name) VALUES (4, 'Italy');
-INSERT INTO country (id, name) VALUES (5, 'Canada');
+INSERT INTO country (name,description)
+VALUES ('Egypt','Mother of the whole world.');
+INSERT INTO country (name,description)
+VALUES ('UAE','Hold your tongue.');
+INSERT INTO country (name,description)
+VALUES ('Brazil', 'Football legends.');
+INSERT INTO country (name,description)
+VALUES ('Italy','The birthplace of pizza.');
+INSERT INTO country (name,description)
+VALUES ('Canada','Nothing of importance.');
